@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website-up-down-green-red/http/i.dmego.me.svg)](http://tgdwcj.github.io/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/i.dmego.me.svg)](http://tgdwcj.cn/)
 [![License](https://img.shields.io/github/license/dmego/home.github.io.svg)](/LICENSE)
 [![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)](https://saythanks.io/to/dmego)
 
@@ -16,7 +16,7 @@
 
 ### 注
 
-- 访问地址：[个人主页](http://tgdwcj.github.io/)
+- 访问地址：[个人主页](http://tgdwcj.cn/)
 - 使用了 [一言](http://hitokoto.cn/) 的 API 服务
 
 ### 更新时间
