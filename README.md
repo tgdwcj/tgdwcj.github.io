@@ -16,12 +16,12 @@
 
 ### 注
 
-- 访问地址：[个人主页](http://tgdwcj.cn/)
-- 使用了 [一言](http://hitokoto.cn/) 的 API 服务
-
 ### 更新时间
 
 >2019-6-22
+
+- 访问地址：[个人主页](http://tgdwcj.cn/)
+- 使用了 [一言](http://hitokoto.cn/) 的 API 服务
 
 >2019-6-23
  
